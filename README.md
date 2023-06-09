@@ -22,7 +22,7 @@ Fun facts! Some professors call me the "Neo of Matrix" for some reason. I always
 ![](https://github-readme-stats.vercel.app/api?username=AndersonCSM&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AndersonCSM&theme=dark&hide_border=false)<br/>
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonCSM&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=javascript,html,jupyter%20notebook,processing)](https://github.com/AndersonCSM/github-readme-stats)<br/>
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonCSM&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/AndersonCSM)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AndersonCSM&theme=radical&no-frame=false&no-bg=true&margin-w=4)
