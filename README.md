@@ -1,5 +1,5 @@
 # 💫 About Me:
-O que eu estou fazendo atualmente? No momento, estou cursando Ciência e Tecnologia na Universidade Federal Rural do Semi-Árido com pretenção de seguir para Engenharia da computação. Além disso, sou co-fundador do Laboratório de Inteligência Numérica e Computacional (LINC) no campus Mossoró, onde atuo na área de pesquisa e programação. 🎓💻
+O que eu estou fazendo atualmente? No momento, estou cursando CEngenharia da computação na Universidade Federal Rural do Semi-Árido. Além disso, sou co-fundador do Laboratório de Inteligência Numérica e Computacional (LINC) no campus Mossoró, onde atuo na área de pesquisa e programação. 🎓💻
 
 O que estou estudando? Atualmente, estou tentando me profissionalizar e me tornar um programador full-stack, estou vendo conteúdo de ciência de dados, desenvolvimento web, uso de APIs, ferramentas de gerenciamento de banco de dados em Nuvem. Também estou explorando a grande área de aprendizado de máquina e mexendo um pouco em embarcados com Micropython. Além disso, tenho planos de começar a estudar desenvolvimento de jogos. 📊🤖🎮
 
@@ -7,7 +7,7 @@ Aqui vão alguns fatos divertidos! Alguns professores me chamavam de "Neo de Mat
 
 <hr/>
 
-What am I currently doing? Right now, I'm pursuing a degree in Science and Technology at the Federal Rural University of the Semi-Arid region with the intention of transitioning into Computer Engineering. Additionally, I am a co-founder of the Laboratory of Numeric and Computational Intelligence (LINC) at the Mossoró campus, where I am involved in research and programming. 🎓💻
+What am I currently doing? Right now, I'm pursuing a degree in Computer Engineering at the Universidade Federal Rural do Semi-Árido. Additionally, I am a co-founder of the Laboratory of Numeric and Computational Intelligence (LINC) at the Mossoró campus, where I am involved in research and programming. 🎓💻
 
 What am I studying? Currently, I'm working on professionalizing myself and becoming a full-stack programmer. I'm studying content related to data science, web development, the use of APIs, cloud database management tools. I'm also exploring the vast field of machine learning and tinkering with embedded systems using Micropython. Furthermore, I have plans to start studying game development. 📊🤖🎮
 
