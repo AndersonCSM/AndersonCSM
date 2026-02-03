@@ -78,7 +78,6 @@ I enjoy strategy and resource-management games such as *Age of Empires II*, *Cit
 ---
 
 ## 🏆 GitHub Trophies
-
 ![](https://github-profile-trophy.vercel.app/?username=AndersonCSM&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
