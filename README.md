@@ -8,7 +8,7 @@ Sou bacharel em Ciência e Tecnologia e atualmente curso Engenharia de Computaç
 **O que estou estudando**  
 Estou me aprofundando em fundamentos e tecnologias da Engenharia de Computação, com foco em desenvolvimento de software e aplicações em Ciência de Dados. Me interesso especialmente por:
 
-- Desenvolvimento back-end e full-stack  
+- Desenvolvimento back-end
 - APIs e arquitetura de sistemas  
 - Bancos de dados relacionais e não relacionais  
 - Estruturas de dados e algoritmos  
@@ -32,7 +32,7 @@ I hold a Bachelor's degree in Science and Technology and I am currently pursuing
 **What I am studying**  
 I am deepening my knowledge in Computer Engineering fundamentals and technologies, with a focus on software development and Data Science applications. My main interests include:
 
-- Back-end and full-stack development  
+- Back-end development  
 - APIs and systems architecture  
 - Relational and non-relational databases  
 - Data structures and algorithms  
