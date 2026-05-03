@@ -1,30 +1,4 @@
-# 💫 About Me | Sobre Mim
-
-## 🇧🇷
-
-**O que estou fazendo atualmente**  
-Sou bacharel em Ciência e Tecnologia e atualmente curso Engenharia de Computação na Universidade Federal Rural do Semi-Árido (UFERSA).
-
-**O que estou estudando**  
-Estou me aprofundando em fundamentos e tecnologias da Engenharia de Computação, com foco em desenvolvimento de software e aplicações em Ciência de Dados. Me interesso especialmente por:
-
-- Desenvolvimento back-end
-- APIs e arquitetura de sistemas  
-- Bancos de dados relacionais e não relacionais  
-- Estruturas de dados e algoritmos  
-- Modelagem e simulação computacional  
-- Ferramentas e bibliotecas para análise de dados  
-
-Tenho dedicado atenção especial às linguagens **Python** e **Java**, explorando desde a base da programação até aplicações voltadas para análise de dados, automação e desenvolvimento de sistemas.
-
-**Interesses e curiosidades**  
-Tenho grande interesse nas áreas de **simulação computacional** e **robótica**. Também sou entusiasta de ficção científica e acompanho referências como *O Guia do Mochileiro das Galáxias* — afinal, estar preparado nunca é demais.
-
-Gosto de jogos de estratégia e gestão de recursos, como *Age of Empires II*, *Cities: Skylines*, *Against the Storm* e *Anno 1800*. A temática de futuros tecnológicos, especialmente no universo **cyberpunk**, é uma das motivações que me levam a continuar estudando e buscando contribuir com o avanço da tecnologia.
-
----
-
-## 🇺🇸
+# 💫 About Me
 
 **What I am currently doing**  
 I hold a Bachelor's degree in Science and Technology and I am currently pursuing a degree in Computer Engineering at the Federal Rural University of the Semi-Arid Region (UFERSA).
